@@ -1,0 +1,62 @@
+,Project,Task,2022-04-04,2022-04-05,2022-04-06,2022-04-07,2022-04-08
+0,A115410-1001,KLETTFS-6051 - Speicher freigeben,0.0,0.5,0.0,0.0,0.0
+1,A116692-1006,"CUT-109 - Query schreiben und dokumentieren, Test auf Staging, Rückfragen, Report erstellen Prod",0.0,0.0,0.0,1.25,1.0
+2,A116692-1006,MAM-727 - Recherche und Aufnahme Killswitch in Release-Doku,0.5,0.0,0.0,0.0,0.0
+3,A116692-1006,MAM-732 - User-Report letzter Login abfragen,0.5,0.0,0.0,0.0,0.0
+4,A119393-1014,"Einrichtung Netzwerk-Tunnel, Buchungspakete, Lesezeichen",0.0,0.0,0.0,0.0,0.25
+5,A119393-1014,Liste erstellen benötigte Mitsubishi-Zugänge,0.0,0.0,0.0,0.5,0.0
+6,A122822-1002,Absprache regelmäßiger Projekt-Export,0.0,0.0,0.25,0.0,0.0
+7,A122822-1002,BET-789 - Umstellung Parameter auf QS,0.25,0.0,0.0,0.0,0.0
+8,A122822-1002,BET-793 - Update der Release-Notes für 22.4,0.25,0.0,0.0,0.0,0.0
+9,A122822-1002,"BET-808 - Statusupate mit Tobias/Lukas, Statusupate mit Tobias/Lukas",0.0,0.0,0.0,0.5,0.25
+10,A122822-1002,BET-809 - Update Celum Dev und Prod,1.0,0.0,0.0,0.0,0.0
+11,A122822-1002,BET-814 - Prüfung und Löschung alter jQuery auf allen Stages,0.0,0.0,0.0,0.5,0.0
+12,A122822-1002,"BET-816 - Fehlersuche, Telco, Rückmeldung",0.0,0.0,0.0,0.0,1.5
+13,A122822-1002,"Betriebsticket prüfen, aktualisieren, weiterleiten",0.0,0.0,0.0,0.0,0.25
+14,A122822-1002,DEV-1823 - Rückmeldung an Daniela,0.0,0.0,0.25,0.0,0.0
+15,A122822-1002,DEV-1834 - Fehler prüfen und Rückmeldung,0.0,0.0,0.25,0.0,0.0
+16,A122822-1002,"DEV-1899 - Telco mit Datev, Fehlerbehebung",0.0,0.0,0.75,0.0,0.0
+17,A122822-1002,Daily -,0.0,0.25,0.25,0.25,0.25
+18,A122822-1002,"Daily, Mails, Nachrichten -",0.5,0.0,0.0,0.5,0.5
+19,A122822-1002,FS-Update 22.4 Dev-Server,0.0,1.0,0.0,0.0,0.0
+20,A122822-1002,Fehlersuche ausbleibende Opsgenie-Benachrichtigung,0.0,0.0,0.0,0.0,0.25
+21,A122822-1002,Internes Weekly,1.0,0.0,0.0,0.0,0.0
+22,A122822-1002,Mini-Release absprechen und anlegen,0.0,0.0,0.25,0.0,0.0
+23,A122822-1002,Prod-Release KW 14 (Mini),0.0,0.0,1.25,0.0,0.0
+24,A122822-1002,Prod-Release KW14,0.0,3.25,0.0,0.0,0.0
+25,A122822-1002,Vorabprüfung Release-Tickets,0.25,0.0,0.0,0.0,0.0
+26,A122822-1002,Vorbesprechung Release mit Lena,0.0,0.5,0.0,0.0,0.0
+27,A122822-1002,Weekly,1.25,0.0,0.0,0.0,0.0
+28,A122822-1002,Weekly-Themen vorbereiten und in Protokoll eintragen,0.0,0.0,0.0,0.0,0.25
+29,A122880-1009,Austausch ekv/adesso Sprring-Sicherheitslücke,0.5,0.0,0.0,0.0,0.0
+30,A122880-1009,"Daily, Mails, Nachrichten",0.0,0.0,0.5,0.0,0.0
+31,A122880-1009,Interner Regelaustausch,0.5,0.0,0.0,0.0,0.0
+32,A122880-1009,Terminplanung Celum-Sicherheitslücke-Review mit Jens,0.25,0.0,0.0,0.0,0.0
+33,A122880-1010,"CUT-107 - Nachfragen und Rückmeludung im Ticket, Weiterleitung an Jens, Update Celum Dev und Staging, Staging nach Proxy-Umstellung testen, MAM-Update Vorbesprechuchung, Prod-Update",1.25,0.5,1.25,0.0,0.0
+34,A122880-1010,CUT-59 - Update und Weitergabe an cg,0.0,0.0,0.0,0.25,0.0
+35,A122880-1010,MAM-686 - Austausch Celum und Update Ticket,0.0,0.0,0.0,0.25,0.0
+36,A122880-1011,CUT-109 - Konzept und Schätzung schreiben,0.25,0.0,0.0,0.0,0.0
+37,A122880-1011,"CUT-110 - Aufwandsschätzung, Konzept, Listenformat dokumentieren",0.5,0.0,0.0,0.0,0.0
+38,A122880-1011,"MAM-729 - Klärung: Technischer Nutzer auf ekvmamt2 und -p2 Telco, Keys einrichten, Test-Logins",0.0,0.0,0.5,0.0,0.5
+39,A122880-1012,"Betriebsticket prüfen, aktualisieren, weiterleiten",0.0,0.0,0.0,0.0,0.25
+40,A122880-1012,CUT-107 - Anlegen der Deployment-Dokumentation,0.0,0.0,0.0,0.5,0.0
+41,A122880-1012,"Kernel-Update auf Dev CMS, Search, Monitor",0.0,0.0,1.25,0.0,0.0
+42,A122880-1012,MAM-729 - Erstellen ssh-keys,0.0,0.0,0.0,0.25,0.0
+43,A122880-1014,MAM-730 - Terminfindung mit Lena Ade,0.0,0.0,0.0,0.0,0.25
+44,A122881-1009,CUT-107 - Regelaustausch,0.0,0.25,0.0,0.0,0.0
+45,A122881-1009,"Daily, Mails, Nachrichten",0.0,0.5,0.0,0.0,0.0
+46,A122881-1012,"KLETTFS-6051 - Speicher prüfen, Kostenstelle u. Ticket anlegen mit Jasmin",0.0,0.25,0.0,0.0,0.0
+47,A122979-1000,"Betriebsticket prüfen, aktualisieren, weiterleiten",0.0,0.0,0.0,0.0,0.25
+48,A122979-1000,Nachbesprechung Release mit Torben,0.0,0.0,0.0,0.5,0.0
+49,A122979-1000,"Release-Planung April mit Jasmin, Torben",0.0,0.0,0.0,0.0,0.25
+50,A122979-1000,Status FIS-Modul besprechen mit Torben,0.0,0.0,0.25,0.0,0.0
+51,A122979-1000,"UKESUP-206 - Vorprüfung Release-Tickets, Absprache mit Torben, Release durchführen",0.5,2.25,0.0,0.0,0.0
+52,Y101496-1002,Celum-Präso + einmal üben,0.0,0.0,1.0,0.0,0.0
+53,Y101496-1002,Durchgeführte Releases nachtragen,0.25,0.0,0.0,0.0,0.0
+54,Y101496-1002,Jour Fix,0.0,0.0,0.0,1.0,0.0
+55,Y101496-1002,"Letzte Migration Mac auf Dell (dbeaver, ssh, mvn, soapui, etc.)",0.0,0.0,1.0,0.0,0.0
+56,Y101496-1002,Monthly,0.0,1.0,0.0,0.0,0.0
+57,Y101496-1002,One2One + Vorbereitung,0.0,0.0,0.0,0.75,0.0
+58,Y101496-1002,Team-Spirit,0.0,0.0,0.0,0.5,0.0
+59,Y101496-1002,cmder in windows terminal integrieren,0.0,0.0,0.0,0.0,0.25
+60,Y101496-1002,ssh-Debuggung auf klett-Servern,0.0,0.0,0.0,0.5,0.0
